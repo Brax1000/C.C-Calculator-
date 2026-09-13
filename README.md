@@ -1,6 +1,6 @@
 # C.C calcu :3
 
-A basic scientific calculator styled after a Casio fx-991EX, built with plain HTML, CSS, and JavaScript.
+A basic scientific calculator styled after a Calculator, built with plain HTML, CSS, and JavaScript.
 
 ## Files
 
@@ -23,4 +23,4 @@ Open `index.html` in a browser. All three files need to stay in the same folder 
 
 ## Notes
 
-This is a for-fun front-end build, not an exact replica of the real fx-991EX firmware or feature set.
+This is a for-fun front-end build, not an exact replica of any real firmware or feature set.
