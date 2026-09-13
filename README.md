@@ -8,9 +8,6 @@ A basic scientific calculator styled after a Calculator, built with plain HTML, 
 - `style.css` — calculator body, screen, and button styling
 - `script.js` — expression handling, math logic, and keyboard input
 
-## Running it
-
-Open `index.html` in a browser. All three files need to stay in the same folder since `index.html` links to `style.css` and `script.js`.
 
 ## Features
 
