@@ -5,7 +5,7 @@ A basic scientific calculator styled after a Calculator, built with plain HTML, 
 ## Files
 
 - `index.html` — page structure and button layout
-- `style.css` — calculator body, screen, and button styling
+- `styleC.C.css` — calculator body, screen, and button styling
 - `script.js` — expression handling, math logic, and keyboard input
 
 
